@@ -6,7 +6,7 @@
 # Change log
 # v1.0 1-May-2012 First public release
 
-remote_repo=https://github.com/github/gitignore.git
+remote_repo=https://github.com/troii/gitignore.git
 local_repo=$HOME/.gitignore-boilerplates
 
 version() {
